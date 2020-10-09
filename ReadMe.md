@@ -1,6 +1,6 @@
 # RomanNumberConverter
 
-This interactive console application converts arabic number between 1 and 4999 to roman numbers.
+This interactive console application converts arabic numbers between 1 and 4999 to roman numbers.
 
 Example:
 > RomanNumberConverter.exe
